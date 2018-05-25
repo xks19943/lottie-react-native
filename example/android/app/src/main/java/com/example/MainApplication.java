@@ -2,6 +2,7 @@ package com.example;
 
 import android.app.Application;
 
+import com.airbnb.android.react.lottie.BuildConfig;
 import com.airbnb.android.react.lottie.LottiePackage;
 import com.facebook.react.ReactApplication;
 import com.facebook.react.ReactNativeHost;
